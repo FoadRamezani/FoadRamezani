@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FoadRamezani
-- 👀 I’m interested in programming and managing Linux servers
+- 👀 I have more than 5 years experience as a DevOps
 - 🌱 I’m currently learning Computer Information System at Kwantlen Polytechnic University
 - 📫 How to reach me ... You can send me an email
 
